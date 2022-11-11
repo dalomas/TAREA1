@@ -68,7 +68,7 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 
 # 4. VIDEO
 
-Enlace video subido a youtube:
+Enlace video subido a youtube: https://youtu.be/UJ4YMeUReWQ
 
 # 5. CONCLUSIONES
 
